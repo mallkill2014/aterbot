@@ -2,8 +2,8 @@
 	"private": true,
 	"type": "module",
 	
-	"name": "aterbot",
-	"version": "0.0.0",
+	"name": "XDD",
+	"version": "1.21.11",
 	
 	"scripts": {
 		"start": "tsx ./src/index.ts",
